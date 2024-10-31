@@ -1,0 +1,47 @@
+*{
+    margin: 0px 0px 0px 0px;
+}
+
+.Product{
+   
+    padding: 10px;
+    
+    margin-left:auto;
+    margin-right: auto;
+}
+.iphone{
+ float: left;
+ border: 5px solid white;
+ width: 24%;
+ font-size: 18px;
+}
+div h1{
+    margin-left: 15px;
+}
+img{
+    width: 100%;
+}
+
+.current-price {
+    color: green;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .original-price {
+    color: red;
+    text-decoration: line-through;
+    margin-left: 5px;
+    font-size: 20px;
+  }
+
+
+button{
+    background-color: rgb(12, 75, 220);
+    color: white;
+    padding: 7px;
+}
+
+.clear{
+    clear: both;
+}
